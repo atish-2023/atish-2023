@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Aspiring Software Developer with hands-on experience in building scalable web applications using Angular, Java, Spring Boot, and full-stack technologies. Strong foundation in object-oriented programming, database management (MySQL, PostgreSQL, MongoDB), and clean, maintainable code practices. Experienced in developing real-world applications with Firebase, REST APIs, and modern UI frameworks. Proven ability to collaborate in Agile teams, deliver production-ready solutions, and continuously learn new technologies. Passionate about creating efficient, user-focused software and growing as a professional developer.
+Innovative Full Stack Developer proficient in MERN and MEAN stack technologies, dedicated to crafting high-performance web applications. With practical experience from freelance projects and tenure at Nadsoft, I specialize in developing customizable solutions that elevate operational efficiency and user satisfaction. My technical expertise includes JavaScript, TypeScript, React.js, Angular, Node.js, and Express.js, complemented by advanced database optimization skills in MySQL and MongoDB. I excel in creating responsive front-end components and robust back-end services, utilizing Agile methodologies and efficient version control through Git. With a strong commitment to enhancing user engagement and project outcomes, I continuously seek opportunities to integrate the latest technologies and best practices in software development.
 
 
 ## 🌐 Socials:
